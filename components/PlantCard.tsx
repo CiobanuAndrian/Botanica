@@ -1,17 +1,3 @@
-/**
- * PlantCard - Componenta card pentru afișarea unei plante
- *
- * Afișează informațiile de bază ale unei plante într-un format card compact.
- * Include imagine, nume, descriere scurtă, preț și buton de adăugare în coș.
- *
- * Funcționalități:
- * - Imagine cu efect hover (zoom)
- * - Click pe imagine deschide detaliile plantei
- * - Buton pentru adăugare rapidă în coș
- * - Design responsive și minimalist
- * - Animații smooth la hover
- */
-
 'use client';
 
 import { Plant } from '@/types/plant';
